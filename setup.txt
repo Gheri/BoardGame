@@ -1,0 +1,16 @@
+Prereq:
+VSCode >= 1.41.1
+dotnet core 3.0
+.Net Test Explorer for VS Code==> 0.7.1
+
+
+Steps to Run the Solution
+1. UnZip The file
+2. Open the folder in vscode
+3. Say Yes to the Prompt will appear in the bottom to load the assets and dependencies
+4. Debug -> Run
+
+To Run XUnit Test Cases in Vscode
+1. Download .Net Test Explorer extension in vscode
+2. Go To Tests option in vscode
+3. Run all the test cases.
